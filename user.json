@@ -1,0 +1,20 @@
+[{
+  "s_id":"s01",
+  "name":"Suraj Kumar",
+  "email":"suraj_rathi@gmail.com",
+  "password":"suraj123"
+},
+{
+  "s_id":"s02",
+  "name":"Mahesh Sharma",
+  "email":"mahesh_sharma@gmail.com",
+  "password":"mahesh123"
+},
+{
+  "s_id":"s03",
+  "name":"Ravi Kumar",
+  "email":"ravi_kumar@gmail.com",
+  "password":"ravi123"
+}
+
+]
